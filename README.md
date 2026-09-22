@@ -21,15 +21,28 @@ Led the technical development underlying the patent, including algorithm design,
 
 ### Shipped apps
 
-**MORI**  
-A social and portfolio app for creators. Contributed to product planning, UI/UX design, and app development.
-
-[Google Play](https://play.google.com/store/apps/details?id=com.projectMori.app) · [App Store](https://apps.apple.com/kr/app/mori-%EC%B0%BD%EC%9D%98%EB%A0%A5%EC%9D%84-%EB%B3%B4%ED%98%B8%ED%95%98%EB%8A%94-%EC%B0%BD%EC%9E%91%EC%9E%90%EC%9D%98-%EB%94%94%EC%A7%80%ED%84%B8-%ED%8C%8C%ED%8A%B8%EB%84%88/id6474066988)
-
-**부스모리 · Booth MORI**  
-A booth sales management app for creators at offline events. Contributed to product planning, UI/UX design, and app development.
-
-[Google Play](https://play.google.com/store/apps/details?id=com.mori.lite.app) · [App Store](https://apps.apple.com/us/app/%EB%B6%80%EC%8A%A4%EB%AA%A8%EB%A6%AC-%EB%B6%80%EC%8A%A4-%EA%B3%84%EC%82%B0%EA%B8%B0/id6743000144)
+<table>
+  <tr>
+    <td width="104" align="center" valign="middle">
+      <a href="https://play.google.com/store/apps/details?id=com.projectMori.app"><img src="https://play-lh.googleusercontent.com/EoXfBP1nMri0ap7WUc0Smwh719dcKprUcdImbJQBBh6pxcPYXw7GysWx4uCseV-Ja4G4PuafoPv04_9Zt7FC=w240-h480-rw" alt="MORI app icon" width="80" height="80"></a>
+    </td>
+    <td valign="top">
+      <p><strong>MORI</strong><br>A social and portfolio app for creators.</p>
+      <p>Contributed to product planning, UI/UX design, and app development.</p>
+      <p><a href="https://play.google.com/store/apps/details?id=com.projectMori.app">Google Play</a> · <a href="https://apps.apple.com/kr/app/mori-%EC%B0%BD%EC%9D%98%EB%A0%A5%EC%9D%84-%EB%B3%B4%ED%98%B8%ED%95%98%EB%8A%94-%EC%B0%BD%EC%9E%91%EC%9E%90%EC%9D%98-%EB%94%94%EC%A7%80%ED%84%B8-%ED%8C%8C%ED%8A%B8%EB%84%88/id6474066988">App Store</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="104" align="center" valign="middle">
+      <a href="https://play.google.com/store/apps/details?id=com.mori.lite.app"><img src="https://play-lh.googleusercontent.com/jF-YK9DKLCUVFi49tj9EALc3uYi7iRanGWZLiPQLxdlCviHEiXZaieTMrp4L9ttNs6CWKGkiGwU0P4fR_uf7=w240-h480-rw" alt="부스모리 · Booth MORI app icon" width="80" height="80"></a>
+    </td>
+    <td valign="top">
+      <p><strong>부스모리 · Booth MORI</strong><br>A booth sales management app for creators at offline events.</p>
+      <p>Contributed to product planning, UI/UX design, and app development.</p>
+      <p><a href="https://play.google.com/store/apps/details?id=com.mori.lite.app">Google Play</a> · <a href="https://apps.apple.com/us/app/%EB%B6%80%EC%8A%A4%EB%AA%A8%EB%A6%AC-%EB%B6%80%EC%8A%A4-%EA%B3%84%EC%82%B0%EA%B8%B0/id6743000144">App Store</a></p>
+    </td>
+  </tr>
+</table>
 
 ### Public implementation
 
