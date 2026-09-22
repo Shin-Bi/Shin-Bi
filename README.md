@@ -1,6 +1,6 @@
 ![Shin-Bi — AI Research Engineer. AI-generated image detection and digital watermarking.](assets/header.svg)
 
-I research and build systems for **AI-generated image detection** and **digital watermarking**. My work spans model experiments, robustness evaluation, algorithm optimization, and Python packages for backend integration.
+I research and build systems for **AI-generated image detection**, **digital watermarking**, and **image protection aimed at disrupting unauthorized LoRA training**. My work spans model experiments, robustness evaluation, algorithm optimization, and Python packages for backend integration.
 
 **Python · PyTorch · NumPy · OpenCV · scikit-learn · Git**
 
@@ -10,6 +10,7 @@ I research and build systems for **AI-generated image detection** and **digital 
 | :--- | :--- | :--- |
 | **Invisible Watermark** | Watermark insertion and detection, visual quality and robustness evaluation, performance optimization, and Python packaging. | [Project overview →](projects/invisible-watermark.md) |
 | **AI Image Detection** | Detection model experiments, training and evaluation data preparation, and robustness testing under compression and resizing. | [Project overview →](projects/ai-detection.md) |
+| **Anti-AI Filter** | Image-protection filters aimed at disrupting unauthorized LoRA training, visual-quality evaluation, and controlled fine-tuning experiments. | [Project overview →](projects/anti-ai-filter.md) |
 
 ### Patent
 
@@ -64,10 +65,11 @@ The professional project pages describe my responsibilities and development proc
 <details>
 <summary><strong>한국어 소개</strong></summary>
 
-AI 생성 이미지 탐지와 디지털 워터마킹을 연구·개발하는 엔지니어입니다. 모델 실험과 성능 평가부터 알고리즘 최적화, 백엔드 연동용 Python 패키지 개발까지 수행하고 있습니다.
+AI 생성 이미지 탐지, 디지털 워터마킹, 무단 LoRA 학습 방해를 목표로 하는 이미지 보호 필터를 연구·개발하는 엔지니어입니다. 모델 실험과 성능 평가부터 알고리즘 최적화, 백엔드 연동용 Python 패키지 개발까지 수행하고 있습니다.
 
 - **Invisible Watermark:** 삽입·검출 알고리즘 구현, 비가시성·변형 강건성 평가, 처리 성능 개선 및 패키징
 - **AI Image Detection:** 탐지 모델 실험, 학습·평가 데이터 구성, 압축·리사이즈 조건에서의 성능 검증
+- **[Anti-AI Filter](projects/anti-ai-filter.md):** 무단 LoRA 학습 방해를 위한 이미지 보호용 섭동 연구, 화질과 보호 효과의 균형 평가, LoRA 미세조정 비교 실험
 
 **[적응형 워터마킹 시스템 및 방법](https://doi.org/10.8080/1020250156868)**의 공동발명자로 등재되어 있으며, 특허의 기반이 된 알고리즘 설계·구현·실험 검증 등 기술 개발을 주도했습니다. 대한민국 등록특허 제10-2998678호로, 2026년 7월 28일 등록되었으며 특허권자는 주식회사 모리입니다.
 
