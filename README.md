@@ -1,8 +1,8 @@
-![Shin-Bi — AI Research Engineer. AI-generated image detection and digital watermarking.](assets/header.svg)
+![Shin-Bi — AI Research Engineer. Computer Vision & Image Protection. AI-generated image detection, digital watermarking, and anti-AI filters.](assets/header.svg)
 
 I research and build systems for **AI-generated image detection**, **digital watermarking**, and **image protection aimed at disrupting unauthorized LoRA training**. My work spans model experiments, robustness evaluation, algorithm optimization, and Python packages for backend integration.
 
-**Python · PyTorch · NumPy · OpenCV · scikit-learn · Git**
+**Python · PyTorch · NumPy · OpenCV**
 
 ### Professional work
 
@@ -76,7 +76,5 @@ AI 생성 이미지 탐지, 디지털 워터마킹, 무단 LoRA 학습 방해를
 출시된 앱 **MORI**와 **부스모리**의 서비스 기획·UI/UX 디자인·앱 개발에 참여했습니다. MORI는 창작자를 위한 소셜·포트폴리오 앱이며, 부스모리는 오프라인 행사에서 창작자의 부스 판매 관리를 돕는 앱입니다.
 
 공개 코드 예제인 **[CV Robustness Benchmark](https://github.com/Shin-Bi/cv-robustness-benchmark)**에서는 공개 데이터로 평가 과정을 재현할 수 있습니다. 회사 프로젝트와 별도로 만든 개인 포트폴리오 예제입니다.
-
-클라우드 관련 업무는 AWS KMS 연동 코드와 연동 문서 작성이며, 클라우드 리소스 설정과 실제 배포·운영은 다른 담당자가 수행했습니다.
 
 </details>
