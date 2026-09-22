@@ -2,7 +2,7 @@
 
 I research and build systems for **AI-generated image detection**, **digital watermarking**, and **image protection aimed at disrupting unauthorized LoRA training**. My work spans model experiments, robustness evaluation, algorithm optimization, and Python packages for backend integration.
 
-**Python · PyTorch · NumPy · OpenCV · Flutter · Dart**
+**Python · PyTorch · NumPy · OpenCV · Flutter (Dart)**
 
 ### Professional work
 
