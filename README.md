@@ -20,6 +20,14 @@ An independent portfolio example, separate from the professional projects below.
 | **Invisible Watermark** | Watermark insertion and detection, visual quality and robustness evaluation, performance optimization, and Python packaging. | [Project overview →](projects/invisible-watermark.md) |
 | **AI Image Detection** | Detection model experiments, training and evaluation data preparation, and robustness testing under compression and resizing. | [Project overview →](projects/ai-detection.md) |
 
+### Patent
+
+**[Adaptive watermarking system and method](https://doi.org/10.8080/1020250156868)**  
+Co-inventor · Korean Patent No. **10-2998678** · Granted July 28, 2026  
+Patent holder: 주식회사 모리 (MORI)
+
+Led the technical development underlying the patent, including algorithm design, implementation, and experimental validation.
+
 ### How I work
 
 - **Define the test before interpreting the result.** Keep training, model selection, and evaluation separate; document the conditions behind each result.
@@ -35,6 +43,8 @@ AI 생성 이미지 탐지와 디지털 워터마킹을 연구·개발하는 엔
 
 - **Invisible Watermark:** 삽입·검출 알고리즘 구현, 비가시성·변형 강건성 평가, 처리 성능 개선 및 패키징
 - **AI Image Detection:** 탐지 모델 실험, 학습·평가 데이터 구성, 압축·리사이즈 조건에서의 성능 검증
+
+**[적응형 워터마킹 시스템 및 방법](https://doi.org/10.8080/1020250156868)**의 공동발명자로 등재되어 있으며, 특허의 기반이 된 알고리즘 설계·구현·실험 검증 등 기술 개발을 주도했습니다. 대한민국 등록특허 제10-2998678호로, 2026년 7월 28일 등록되었으며 특허권자는 주식회사 모리입니다.
 
 공개 코드 예제인 **[CV Robustness Benchmark](https://github.com/Shin-Bi/cv-robustness-benchmark)**에서는 공개 데이터로 평가 과정을 재현할 수 있습니다. 회사 프로젝트와 별도로 만든 개인 포트폴리오 예제입니다.
 
